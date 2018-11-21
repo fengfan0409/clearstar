@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## 预览地址
+
+https://fengfan0409.github.io/clearstar-show/
+
 ## Build Setup
 
 ``` bash
