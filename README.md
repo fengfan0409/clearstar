@@ -1,4 +1,4 @@
-# pintu
+# ClearStar
 
 > A Vue.js project
 
